@@ -6,5 +6,6 @@ Developed an smart AIoT helmet which behind equipped with micro camera and deplo
 
 ## Function
  * ### AIoT Framework
+  ![image](https://github.com/Yi-Cheng0101/TSMC_MS_Hackthon/blob/master/IoT_img_1.png)
  * ### AI model deploy and training
  * ### Data analysis
